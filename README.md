@@ -1,4 +1,4 @@
-# Azure VM Deployment with Terraform for use kind and play with kubernetes
+# Provisioning Azure VM with Terraform for Kind and Kubernetes Exploration
 This repository contains a Terraform configuration for deploying an Ubuntu VM on Azure. The VM is pre-configured with Docker, Kubernetes (`kind`), and `kubectl`.
 
 ## Prerequisites
