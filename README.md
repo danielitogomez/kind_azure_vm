@@ -118,7 +118,8 @@ terraform destroy
 ```
 
 ## Additional Notes
-- The SSH public key used for the VM is read from ~/.ssh/kind.pub. Ensure this file exists and contains your SSH public key.
+- The SSH public key used for the VM is read from `~/.ssh/kind.pub`. Ensure this file exists and contains your SSH public key.
 - Modify the Terraform configuration as needed to fit your specific requirements.
-
+- For Kind exploration, refer to the [official KIND documentation](https://kind.sigs.k8s.io/).
+- For Kubernetes, refer to the [official Kubernetes documentation](https://kubernetes.io/docs/).
 
